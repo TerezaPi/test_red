@@ -22,8 +22,8 @@ for plan_date in plan_dates:
         broadcasted.append(plan_date)
         #print("Broadcasted : " + plan_date)
 
-print("Broadcasted total : " + str(len(not_broadcasted)))
-print("Not broadcasted total : " + str(len(broadcasted)))
+print("Broadcasted total : " + str(len(broadcasted)))
+print("Not broadcasted total : " + str(len(not_broadcasted)))
 
 output = {}
 output['broadcasted'] = len(broadcasted)
