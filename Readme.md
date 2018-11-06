@@ -19,8 +19,8 @@ Vycerpano je **80 %** z celkoveho rozpoctu.
 
 source: `3_Plan_in_time.py`
 ```
-Broadcasted total : 62
-Not broadcasted total : 302
+Broadcasted total : 302
+Not broadcasted total : 62
 ```
 Podil odvysilanych kampani je **83 %** z celkoveho rozpoctu.
 
